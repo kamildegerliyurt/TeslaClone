@@ -13,10 +13,12 @@
 
 
 
-<img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/013235d2-4d7e-4f03-818d-1c24241a44cf" width="200" height="400" />
+<img src="https://github.com/kamildegerliyurt/TeslaClone/assets/139812195/6f4388a1-42db-4cb0-b838-7a5ab17b3f56" width="200" height="400" />
 
-<img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/8f30b95f-30fd-4113-b489-7812b878fa6c" width="200" height="400" />
+<img src="https://github.com/kamildegerliyurt/TeslaClone/assets/139812195/dcac5218-d3ca-4ab4-a708-cd972e9297ea" width="200" height="400" />
 
-<img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/6c7e9ede-aed8-4046-a1ef-dab215e28642" width="200" height="400" />
+<img src="https://github.com/kamildegerliyurt/TeslaClone/assets/139812195/0c927738-0701-4049-949d-fcd155cac145" width="200" height="400" />
+
+<img src="https://github.com/kamildegerliyurt/TeslaClone/assets/139812195/09bed41e-b2a3-4dbf-a73b-74eb9fcd1cd6" width="200" height="400" />
 
 
