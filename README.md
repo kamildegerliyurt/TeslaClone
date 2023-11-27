@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img width="300" height="150" src="https://github.com/kamildegerliyurt/TeslaClone/assets/139812195/2983ab16-7d65-43c4-80ce-dddf19c8c791">
+  <img width="350" height="150" src="https://github.com/kamildegerliyurt/TeslaClone/assets/139812195/2983ab16-7d65-43c4-80ce-dddf19c8c791">
 </p>
 
 
