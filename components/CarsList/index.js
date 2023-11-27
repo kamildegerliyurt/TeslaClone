@@ -11,8 +11,8 @@ const CarsList = (props) => {
       <FlatList
         data={cars}
         showsVerticalScrollIndicator={false}
-        snapToAlignment={'start'} //FlatListde kaydırma işlemi sırasında [HİZALAMAYA] yarar.
-        decelerationRate={'fast'} //FlatListde kaydırma işlemi sırasında [YAVAŞLAMA HIZINI] yarar,
+        snapToAlignment={'start'} 
+        decelerationRate={'fast'} 
         snapToInterval={Dimensions.get('window').height}
         renderItem={({item}) => <CarItem car={item} />}
       />
